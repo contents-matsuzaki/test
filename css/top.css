@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+
+.flexslider{
+	margin:0px 10px 10px;
+}
+
+/* POINT */
+
+ul.pointBlock{
+	_zoom:1;
+	overflow:hidden;
+	width:300px;
+	margin:0 auto 15px;
+}
+
+ul.pointBlock li{
+	margin:0px 0px 8px 0px;
+}
+
+ul.pointBlock li:nth-child(3){
+ 	float:left;
+}
+
+ul.pointBlock li:nth-child(4){
+ 	float:right;
+}
+
+/* GOODS LIST/ ABOUT LIST */
+
+
+ul.goodsList{
+	_zoom:1;
+	overflow:hidden;
+	width:100%;
+	margin:-10px 0px 25px;
+}
+
+ul.aboutList{
+	_zoom:1;
+	overflow:hidden;
+	width:100%;
+	margin:0px 0px 15px;
+}
+
+ul.goodsList li:nth-child(odd),
+ul.aboutList li:nth-child(odd){
+	width:50%;
+	float:left;
+}
+
+ul.goodsList li:nth-child(even),
+ul.aboutList li:nth-child(even){
+	width:50%;
+	float:right;
+}
+
+
+/* BANNER AREA */
+
+
+ul.banaArea{
+	_zoom:1;
+	overflow:hidden;
+	width:300px;
+	margin:0px auto 10px;
+}
+
+ul.banaArea li:nth-child(odd){
+ 	float:left;
+	margin:0px 0px 10px 0px;
+}
+
+ul.banaArea li:nth-child(even){
+ 	float:right;
+	margin:0px 0px 10px 0px;
+}
+
+
+/* SNS BUTTON */
+
+ul.snsBtnBlock{
+	_zoom:1;
+	overflow:hidden;
+	width:300px;
+	margin:0px auto 20px;
+}
+
+ul.snsBtnBlock li{
+	float:left;
+	padding:0px 0px 0px 3px;
+}
+
+.featureBtn{
+	text-align:center;
+	margin:0px 0px 30px 0px;
+}
+
+
+
+
+
+
+

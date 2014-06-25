@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+.cntBlock{
+	border-top:6px solid #00A893;
+	padding:10px 0px 0px 0px;
+}
+
+.campaignImg{
+	width:300px;
+	margin: 0px auto 10px;
+}
+
+.wanpoint,
+.domainBlock{
+	width:300px;
+	margin: 0px auto 30px;
+}
+
+.wanpoint h1{
+	margin:0px 0px 10px 0px;
+}
+
+.wanpoint li{
+	text-align:center;
+	margin:0px 0px 10px 0px;
+}
+
+
+ul.campaignC{
+	width:300px;
+	margin: 0px auto 30px;
+}
+
+
+ul.campaignC li{
+	background:url(../campaign/img/ico_plus.jpg) bottom center no-repeat;
+	background-size:20px;
+	-moz-background-size:20px;
+	-webkit-background-size:20px;
+	margin:0px 0px 10px 0px;
+	padding:0px 0px 30px 0px;
+}
+
+ul.campaignC li:last-child{
+	background:none;
+	padding:0px;
+}
+
+
+ul.flow{
+	_zoom:1;
+	overflow:hidden;
+	width:300px;
+	margin: 0px auto 15px;
+}
+
+ul.flow li{
+	margin:0px 0px 10px 0px;
+}
+
+ul.flow li:nth-child(odd){
+	float:left;
+}
+
+ul.flow li:nth-child(even){
+	float:right;
+}
+
+.domainBlock .notice{
+	margin:0px 0px 5px 0px;
+	color:#FF6AB1;
+}
+
+.domainBlock .btn{
+	text-align:center;
+}
+
+
+/* 商品一覧 */
+
+.goodsList{
+	width:300px;
+	margin:0 auto 30px;
+}
+
+.goodsList h1{
+	margin:0px 0px 10px 0px;
+}
+
+.goodsList .inner{
+	margin:0px 0px 10px 0px;
+}
+
+.goodsList .inner img.phot{
+	width:110px;
+	float:left;
+}
+
+.goodsList .inner p{
+	width:180px;
+	float:right;
+}
+
+.goodsList ul.guidline{
+	background:url(../campaign/img/bg_guideline.jpg);
+	padding:15px 15px;
+}
+
+.goodsList ul.guidline li{
+	margin:0px 0px 5px 0px;
+}
+
+.goodsList ul.guidline li:last-child{
+	margin:5px 0px 0px 0px;
+	text-align:center;
+}

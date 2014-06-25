@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+
+.txt{
+	font-size:13px;
+	padding:0px 10px;
+	margin:0px 0px 10px 0px;
+}
+
+.featureBlock{
+	width:300px;
+	margin:0px auto 15px; 
+}
+
+.featureBox{
+	font-size:13px;
+	margin:0px 0px 20px 0px;
+	padding:10px 0px;
+	border:2px solid #75BED0;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.featureBox h1{
+	margin:0px 0px 10px -2px;
+}
+
+.featureBox ul.pointList{
+	margin:0px 10px;
+}
+
+.featureBox ul.pointList li{
+	text-indent:-1em;
+	padding-left:1em;
+}
+
+.featureBox .btn{
+	text-align:center;
+	margin:8px 0px 5px 0px;
+}
+
+dl.serviceList{
+	margin:0px 10px;
+}
+
+dl.serviceList dt{
+	font-size:14px;
+	color:#00A893;
+	background:#DFF4EE;
+	margin:0px 0px 3px 0px;
+	padding:5px 0px;
+}
+
+dl.serviceList dd{
+	margin:0px 0px 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

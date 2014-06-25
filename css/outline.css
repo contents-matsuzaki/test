@@ -1,0 +1,135 @@
+@charset "utf-8";
+
+
+/* COMMON */
+
+.cntBlock{
+	border-top:6px solid #00A893;
+	margin:0px 0px 20px 0px;
+	padding:10px 0px 0px 0px;
+}
+
+.priInner,
+.outline{
+	width:300px;
+	margin:0px auto;
+}
+
+dl.contents{
+
+}
+
+dl.contents dt{
+	font-size:18px;
+	margin:0px 0px 10px;
+	padding:3px 0px;
+	background:#62B0A7;
+	text-align:center;
+	color:#FFFFFF;
+}
+
+dl.contents dd{
+	margin:0px 0px 25px;	
+	padding:0px 5px;
+}
+
+
+/* OUTLINE */
+
+.motto{
+	margin:5px 0px 30px 0px;
+}
+
+.motto2{
+	margin:0px 0px 20px 0px;
+}
+
+.motto h1{
+	margin:10px 0px 15px 0px;
+	padding:0px 0px 15px 0px;
+	border-bottom:1px dotted #CCCCCC;
+	text-align:center;
+}
+
+.motto2 h1{
+	margin:0px 0px 10px 0px;
+	text-align:center;
+}
+
+.motto p{
+	font-size:13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* PRIVACY POLICY */
+
+
+.priInner{
+	font-size:13px;
+}
+
+.contactBox{
+	background:#EEEEEE;
+	margin:5px 0px 0px 0px;
+	padding:15px 20px;
+}
+
+.contactBox .mailBtn{
+	font-size:16px;
+	margin:5px 0px 0px 0px;
+	padding:8px 0px;
+	background: -moz-linear-gradient(top, #FFFFFF, #F0F0F0 50%, #F0F0F0 51%, #E4E4E4);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(.5, #F0F0F0), color-stop(.5, #F0F0F0), to(#E4E4E4)); 
+	text-align:center;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.contactBox .mailBtn a{
+	display:block;
+	color:#206653;
+	text-decoration:none;
+
+}
+
+.contactBox .mailBtn span{
+	background:url(../privacy/img/ico_mail.png) 0px center no-repeat;
+	background-size:20px 16px;
+	-moz-background-size:20px 16px;
+	-webkit-background-size:20px 16px;
+	padding:0px 0px 0px 24px;
+}
+
+
+
+
+
+

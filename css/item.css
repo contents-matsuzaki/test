@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+
+.itemBlock{
+	margin:0px 10px;
+}
+
+/* MAKER TITLE & ACCORDION */
+
+.accordion_head{
+	padding:15px 10px;
+	background: -moz-linear-gradient(top, #FFFFFF, #F0F0F0 50%, #F0F0F0 51%, #E4E4E4);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(.5, #F0F0F0), color-stop(.5, #F0F0F0), to(#E9E9E9)); 
+
+	margin:0px 0px 10px 0px;
+}
+
+.makerBlock{
+	margin:0px 0px 15px 0px;
+}
+
+
+/* ITEM */
+
+.itemBlock{
+	margin:0px 10px 20px 10px;
+}
+
+.itemBox{
+	width:300px;
+	margin:0px auto 30px;
+	
+}
+
+.itemBox h1{
+	color:#216754;
+	font-size:15px;
+	text-align:center;
+	background:#EDEDED;
+	margin:0px 0px 10px 0px;
+	padding:8px 5px;
+}
+
+.itemBox .inner{
+	margin:0px 0px 8px 0px;
+}
+
+.itemBox .inner .photo{
+	width:140px;
+	float:left;
+	margin:0px 10px 0px 0px;
+}
+
+.itemBox .inner  ul.txt{
+	width:auto;
+	line-height:1.4;
+}
+
+.itemBox .inner ul.txt li:first-child{
+	font-weight:bold;
+}
+
+.itemBox .txt2{
+	font-size:13px;
+	line-height:1.4;
+	margin:0px 0px 15px 0px;
+}
+
+.itemBox .btn{
+	text-align:center;
+}
+
+
+/* ITEM SEARCH BLOCK */
+
+
+ul.itemList{
+	_zoom:1;
+	overflow:hidden;
+	width:300px;
+	margin:0 auto 25px;
+}
+
+ul.itemList li{
+	float:left;
+}
+
+
+/* NON ITEM */
+
+.noitem{
+	text-align:center;
+	font-size:14px;
+	margin:40px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

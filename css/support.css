@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+/* COMMON */
+
+.cntBlock{
+	border-top:6px solid #00A893;
+	padding:10px 0px 0px 0px;
+}
+
+.pd{
+	padding:10px 10px 0px 10px;
+}
+
+/* FLOW */
+
+
+dl.necessity{
+	width:100%;
+}
+
+dl.necessity dt{
+	clear:both;
+	background:#F2F2F2;
+	margin:0px 0px 10px 0px;
+	padding:10px;
+	text-align:center;
+}
+
+dl.necessity dd{
+	width:300px;
+	text-align:center;
+	margin:0px auto 30px;
+}
+
+dl.necessity dd ul.item{
+	margin:0px 25px;
+}
+
+dl.necessity dd ul.item li:first-child{
+	float:left;
+	margin:0px 0px 25px 0px;
+}
+
+dl.necessity dd ul.item li:last-child{
+	float:right;
+	margin:0px 0px 25px 0px;
+}
+
+
+dl.flowBlock{
+	width:300px;
+	background:#F2F2F2;
+	margin:0px auto 10px;}
+
+dl.flowBlock dt{
+	margin:0px 0px 10px 0px;
+}
+
+dl.flowBlock dd{
+	font-size:13px;
+	margin:0px 0px 20px 0px;
+	padding:0px 10px 15px 15px;
+}
+
+dl.flowBlock dd ul{
+	background:#FFFFFF;
+	padding:10px;
+}
+
+dl.flowBlock dd li{
+	background:url(../support/flow/img/ico_list.png) left top no-repeat;
+	background-size:12px;
+	-moz-background-size:12px;
+	-webkit-background-size:12px;
+	padding:0px 0px 0px 20px;
+}
+
+dl.flowBlock dd .btn{
+	text-align:center;
+	margin:10px 0px 0px 0px;
+}
+
+
+
+/* QA */
+
+
+dl.qaBlock{
+	margin:0px 10px 30px 10px;
+
+}
+
+dl.qaBlock dt{
+	margin:0px 0px 5px 0px;
+	padding:15px 10px 15px 40px;
+	font-size:14px;
+	background:url(../support/qa/img/ico_q.png) 10px 13px no-repeat, #F8F8F8 url(../support/qa/img/bg_titQ.jpg) left bottom repeat-x;
+	background-size:24px 26px;
+	-moz-background-size:24px 26px;
+	-webkit-background-size:24px 26px;
+}
+
+dl.qaBlock dd{
+	margin:0px 0px 20px 0px;
+	padding:12px 10px 12px 40px;
+	font-size:13px;
+	background:#FFFBEE url(../support/qa/img/ico_a.png) 10px 13px no-repeat;
+	background-size:24px 26px;
+	-moz-background-size:24px 26px;
+	-webkit-background-size:24px 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

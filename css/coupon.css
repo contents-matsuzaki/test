@@ -1,0 +1,279 @@
+@charset "utf-8";
+
+
+/* COUPON */
+
+.mainTitImg{
+	width:100%;
+	background:url(../coupon/img/bg_maintit.jpg);
+	background-size:30px 12px;
+	-moz-background-size:30px 12px;
+	-webkit-background-size:30px 12px;
+	margin:0px 0px 5px 0px;
+	padding:0px 0px 5px 0px;
+	border-top:6px solid #00A893;
+	text-align:center;
+}
+
+.txt{
+	margin:0px 0px 10px 0px;
+}
+
+
+.couponBlock,
+.otherBlock,
+.registerBlock{
+	width:300px;
+	margin:0px auto;
+}
+
+.couponBox{}
+
+.couponBox h1{}
+
+.valuePoint{
+	color:#FF7A4D;
+	text-align:right;
+	margin:0px 0px 2px 0px;
+}
+
+.valuePoint img{
+	padding:0px 0px 0px 5px;
+}
+
+/**/
+
+.coupon{
+	background:#FFEFBF;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:10px 10px 12px 10px;
+	margin:0px 0px 20px 0px;
+}
+
+.coupon h2{
+	margin:0px 0px 5px 0px;
+}
+
+.coupon .txt2{
+	padding:0px 5px;
+	margin:0px 0px 5px 0px;
+}
+
+.coupon p.btn{
+	text-align:center;
+}
+
+/**/
+
+dl.meritBlock{
+	background:#EEEEEE;
+	margin:0px 0px 15px 0px;
+}
+
+dl.meritBlock dt{
+	
+}
+
+dl.meritBlock dd{
+	padding:5px 0px;
+}
+
+dl.meritBlock dd li{
+	text-align:center;
+}
+
+/**/
+
+dl.campaignBlock {
+	margin:0px 0px 20px 0px;
+}
+
+
+dl.campaignBlock dt{
+	background:#62B0A7;
+	color:#FFFFFF;
+	text-align:center;
+	margin:0px 0px 5px 0px;
+	padding:5px 0px;
+}
+
+dl.campaignBlock dt.etc{
+	background:#FFFFFF;
+	color:#1F6652;
+	text-align:left;
+	margin:0px 0px 5px 0px;
+	padding:5px 0px;
+}
+
+dl.campaignBlock dd{
+	background:#EEEEEE;
+
+}
+
+.campaignBana{
+	margin:0px 0px 10px 0px;
+	padding:0;
+}
+
+dl.campaignBlock dd ul{
+	margin:0px 0px 5px 0px;
+	padding:0px 0px 1px 0px;
+	background:#EEEEEE;
+}
+
+dl.campaignBlock dd ul li{
+	text-align:center;
+}
+
+dl.campaignBlock dd ul li.cp{
+	padding:0px 0px 5px 0px;
+}
+
+
+dl.campaignBlock dd li.merit2{
+	background:#FFFFFF url(../coupon/img/ico_calendar.jpg) 5px 5px no-repeat;
+	background-size:46px 48px;
+	-moz-background-size:46px 48px;
+	-webkit-background-size:46px 48px;
+	margin:5px;
+	padding:5px 8px 5px 60px;
+	text-align:left;
+}
+
+.shopCheck{
+	width:300px;
+	margin:0px auto 5px;
+}
+
+.shopCheck img{
+	margin:0px 0px 15px 0px;
+}
+
+
+
+
+
+/* MEMBER */
+
+.mainTitImg2{
+	width:100%;
+	background:#FDF8E3;
+	background-size:30px 12px;
+	-moz-background-size:30px 12px;
+	-webkit-background-size:30px 12px;
+	margin:0px 0px 15px 0px;
+	padding:0px 0px 5px 0px;
+	border-top:6px solid #00A893;
+	text-align:center;
+}
+
+.arrowRegister{
+	text-align:center;
+	margin:0px 0px 10px 0px;
+}
+
+
+
+/* MAIL BUTTON */
+
+.mailBtn{
+	font-size:16px;
+	background: -moz-linear-gradient(top, #F3BEBE, #F9A4A4 50%, #F9A4A4 51%, #FF8888);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F3BEBE), color-stop(.5, #F9A4A4), color-stop(.5, #F9A4A4), to(#FF8888)); 
+	text-align:center;
+	margin:0px 10px 15px;
+	border:1px solid #FE8C8C;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.mailBtn a{
+	display:block;
+	color:#FFFFFF;
+	text-decoration:none;
+	padding:12px 10px 12px 10px;
+	background:url(../common/arrow_mail.png) right 17px no-repeat;
+	background-size:26px 14px;
+	-moz-background-size:26px 14px;
+	-webkit-background-size:26px 14px;
+}
+
+
+
+dl.mailNoticeBox{
+	background:#FFF9E3;
+	margin:0px 10px 15px 10px;
+	padding:12px 15px;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+dl.mailNoticeBox dt{
+	margin:0px 0px 5px 0px;
+}
+
+dl.mailNoticeBox dd{
+	margin:0px 0px 5px 0px;
+}
+
+
+.careerBox{
+	margin:0px 10px 15px 10px;
+	padding:0px 0px 10px 0px;
+	border-bottom:1px dotted #CCCCCC;
+}
+
+.careerBox.no{
+	border-bottom:none;
+}
+
+.careerBox h1{
+	margin:0px 0px 5px 0px;
+	color:#1F6652;
+}
+
+.setUpBtn{
+	font-size:16px;
+	background: -moz-linear-gradient(top, #FFFFFF, #F0F0F0 50%, #F0F0F0 51%, #E4E4E4);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(.5, #F0F0F0), color-stop(.5, #F0F0F0), to(#E4E4E4)); 
+	text-align:center;
+	margin:0px 10px 10px;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.setUpBtn a{
+	display:block;
+	color:#333333;
+	text-decoration:none;
+	padding:10px 10px 10px 10px;
+}
+
+.setUpBtn span{
+	background:url(../shop/img/ico_tel.png) 10px center no-repeat;
+	background-size:20px 14px;
+	-moz-background-size:20px 14px;
+	-webkit-background-size:20px 14px;
+	padding:0px 0px 0px 34px;
+}
+
+.red{
+	color:#CC0000;
+}
+
+dl.auSetting{
+	background:#EEEEEE;
+	margin:0px 0px 10px 0px;
+	padding:12px;
+}
+
+dl.auSetting dd.end{
+	margin:0px 0px 10px 0px;
+}
+
