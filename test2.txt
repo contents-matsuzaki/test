@@ -1,7 +1,5 @@
 matsuzaki
 
-<<<<<<< HEAD
+
 yamamoto
-=======
 hashimoto
->>>>>>> origin/master
