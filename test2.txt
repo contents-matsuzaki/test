@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 matsuzaki
 test
+=======
+matsuzaki
+
+
+‚¢‚¢‚¶‚á‚ñ
+
+
+yamamoto
+hashimoto
+>>>>>>> origin/master
